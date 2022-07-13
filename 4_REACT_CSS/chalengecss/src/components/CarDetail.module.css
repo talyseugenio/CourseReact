@@ -1,0 +1,17 @@
+.car_brand {
+    color:yellow;
+    background-color: grey;
+    padding: 10px;
+}
+
+.car_km {
+    color:purple;
+    background-color: goldenrod;
+    padding: 10px;
+}
+
+.car_color {
+    color:red;
+    background-color: yellowgreen;
+    padding: 10px;
+}
