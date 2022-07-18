@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "Capa de chuva",
+      "price": "asdgasdsaddaasd",
+      "id": 4
+    },
+    {
+      "name": "Capa de chuva",
+      "price": "50.50",
+      "id": 5
+    },
+    {
+      "name": "Capa de chuva",
+      "price": "50.50",
+      "id": 6
+    },
+    {
+      "name": "Capa de chuva",
+      "price": "50.50",
+      "id": 7
+    },
+    {
+      "name": "Capa de chuva",
+      "price": "50.50",
+      "id": 8
+    },
+    {
+      "name": "Capa de chuva",
+      "price": "50.50",
+      "id": 9
+    },
+    {
+      "name": "capa de chuva",
+      "price": "59,99",
+      "id": 10
+    },
+    {
+      "name": "Teclado",
+      "price": "110",
+      "id": 11
+    },
+    {
+      "name": "Teclado",
+      "price": "130",
+      "id": 12
+    },
+    {
+      "name": "Cadeira",
+      "price": "200",
+      "id": 13
+    },
+    {
+      "id": 14
+    }
+  ]
+}
